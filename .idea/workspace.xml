@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ddef72af-04fd-456e-a042-72d32a53d266" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/accumulate/.idea/accumulate.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/accumulate/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/accumulate/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/accumulate/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/accumulate/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/accumulate/accumulate.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/accumulate/accumulate_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acronym/.idea/acronym.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acronym/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acronym/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acronym/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acronym/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acronym/acronym.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/acronym/acronym_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allergies/.idea/allergies.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allergies/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allergies/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allergies/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allergies/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allergies/allergies.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/allergies/allergies_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/anagram/.idea/anagram.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/anagram/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/anagram/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/anagram/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/anagram/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/anagram/anagram.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/anagram/anagram_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bank-account/.idea/bank-account.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bank-account/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bank-account/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bank-account/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bank-account/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bank-account/bank_account.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bank-account/bank_account_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bob/.idea/bob.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bob/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bob/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bob/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bob/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bob/bob.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bob/bob_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bob/cases_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bracket-push/.idea/bracket-push.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bracket-push/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bracket-push/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bracket-push/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bracket-push/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bracket-push/bracket_push.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bracket-push/bracket_push_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circular-buffer/.idea/circular-buffer.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circular-buffer/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circular-buffer/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circular-buffer/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circular-buffer/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circular-buffer/circular_buffer.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/circular-buffer/circular_buffer_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clock/.idea/clock.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clock/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clock/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clock/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clock/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clock/cases_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clock/clock.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/clock/clock_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crypto-square/.idea/crypto-square.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crypto-square/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crypto-square/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crypto-square/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crypto-square/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crypto-square/crypto_square.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/crypto-square/crypto_square_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diamond/.idea/diamond.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diamond/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diamond/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diamond/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diamond/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diamond/diamond.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/diamond/diamond_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/difference-of-squares/.idea/difference-of-squares.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/difference-of-squares/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/difference-of-squares/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/difference-of-squares/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/difference-of-squares/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/difference-of-squares/difference_of_squares.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/difference-of-squares/difference_of_squares_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etl/.idea/etl.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etl/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etl/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etl/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etl/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etl/etl.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/etl/etl_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/food-chain/.idea/food-chain.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/food-chain/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/food-chain/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/food-chain/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/food-chain/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/food-chain/food_chain.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/food-chain/food_chain_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gigasecond/.idea/gigasecond.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gigasecond/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gigasecond/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gigasecond/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gigasecond/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gigasecond/cases_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gigasecond/gigasecond.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gigasecond/gigasecond_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grains/.idea/grains.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grains/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grains/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grains/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grains/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grains/grains.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/grains/grains_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hamming/.idea/hamming.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hamming/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hamming/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hamming/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hamming/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hamming/cases_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hamming/hamming.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hamming/hamming_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello-world/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello-world/hello_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/hello-world/hello_world.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/house/.idea/house.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/house/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/house/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/house/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/house/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/house/house.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/house/house_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/isogram/.idea/isogram.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/isogram/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/isogram/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/isogram/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/isogram/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/isogram/isogram.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/isogram/isogram_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/largest-series-product/.idea/largest-series-product.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/largest-series-product/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/largest-series-product/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/largest-series-product/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/largest-series-product/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/largest-series-product/cases_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/largest-series-product/largest_series_product.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/largest-series-product/largest_series_product_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leap/.idea/leap.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leap/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leap/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leap/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leap/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leap/cases_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leap/leap.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/leap/leap_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/luhn/.idea/luhn.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/luhn/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/luhn/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/luhn/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/luhn/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/luhn/cases_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/luhn/luhn.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/luhn/luhn_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/palindrome-products/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/palindrome-products/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/palindrome-products/.idea/palindrome-products.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/palindrome-products/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/palindrome-products/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/palindrome-products/palindrome_products.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/palindrome-products/palindrome_products_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pangram/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pangram/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pangram/.idea/pangram.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pangram/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pangram/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pangram/pangram.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pangram/pangram_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parallel-letter-frequency/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parallel-letter-frequency/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parallel-letter-frequency/.idea/parallel-letter-frequency.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parallel-letter-frequency/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parallel-letter-frequency/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parallel-letter-frequency/frequency.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parallel-letter-frequency/parallel_letter_frequency.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/parallel-letter-frequency/parallel_letter_frequency_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pascals-triangle/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pascals-triangle/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pascals-triangle/.idea/pascals-triangle.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pascals-triangle/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pascals-triangle/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pascals-triangle/pascals_triangle.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pascals-triangle/pascals_triangle_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perfect-numbers/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perfect-numbers/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perfect-numbers/.idea/perfect-numbers.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perfect-numbers/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perfect-numbers/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perfect-numbers/perfect_numbers.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/perfect-numbers/perfect_numbers_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protein-translation/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protein-translation/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protein-translation/.idea/protein-translation.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protein-translation/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protein-translation/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protein-translation/protein_translation.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/protein-translation/protein_translation_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pythagorean-triplet/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pythagorean-triplet/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pythagorean-triplet/.idea/pythagorean-triplet.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pythagorean-triplet/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pythagorean-triplet/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pythagorean-triplet/pythagorean_triplet.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/pythagorean-triplet/pythagorean_triplet_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/.idea/queen-attack.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/queen_attack.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/queen-attack/queen_attack_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raindrops/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raindrops/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raindrops/.idea/raindrops.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raindrops/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raindrops/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raindrops/cases_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raindrops/raindrops.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/raindrops/raindrops_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react/.idea/react.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react/interfaces.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react/react.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/react/react_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rna-transcription/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rna-transcription/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rna-transcription/.idea/rna-transcription.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rna-transcription/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rna-transcription/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rna-transcription/cases_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rna-transcription/rna_transcription.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/rna-transcription/rna_transcription_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/robot-name/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/robot-name/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/robot-name/.idea/robot-name.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/robot-name/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/robot-name/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/robot-name/bonus_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/robot-name/robot_name.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/robot-name/robot_name_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/roman-numerals/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/roman-numerals/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/roman-numerals/.idea/roman-numerals.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/roman-numerals/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/roman-numerals/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/roman-numerals/cases_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/roman-numerals/roman_numerals.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/roman-numerals/roman_numerals_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/say/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/say/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/say/.idea/say.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/say/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/say/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/say/say.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/say/say_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrabble-score/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrabble-score/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrabble-score/.idea/scrabble-score.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrabble-score/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrabble-score/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrabble-score/scrabble_score.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/scrabble-score/scrabble_score_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/secret-handshake/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/secret-handshake/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/secret-handshake/.idea/secret-handshake.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/secret-handshake/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/secret-handshake/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/secret-handshake/secret_handshake.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/secret-handshake/secret_handshake_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/series/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/series/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/series/.idea/series.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/series/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/series/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/series/asktoomuch_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/series/first_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/series/series.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/series/series_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sieve/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sieve/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sieve/.idea/sieve.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sieve/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sieve/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sieve/sieve.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sieve/sieve_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sum-of-multiples/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sum-of-multiples/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sum-of-multiples/.idea/sum-of-multiples.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sum-of-multiples/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sum-of-multiples/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sum-of-multiples/sum_of_multiples.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/sum-of-multiples/sum_of_multiples_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/.idea/triangle.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/triangle.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/triangle/triangle_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/twelve-days/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/twelve-days/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/twelve-days/.idea/twelve-days.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/twelve-days/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/twelve-days/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/twelve-days/twelve_days.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/twelve-days/twelve_days_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/word-count/.idea/misc.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/word-count/.idea/modules.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/word-count/.idea/word-count.iml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/word-count/.idea/workspace.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/word-count/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/word-count/cases_test.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/word-count/word_count.go" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/word-count/word_count_test.go" afterPath="" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.idea/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="accumulate.go" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/go/accumulate/accumulate.go">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="63" lean-forward="true" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/go/two-fer/two_fer.go" />
+        <option value="$PROJECT_DIR$/go/error-handling/common.go" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="1" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercism-go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercism-go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercism-go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercism-go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="two-fer" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercism-go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercism-go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="error-handling" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercism-go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercism-go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="accumulate" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercism-go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="exercism-go" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.goide.configuration.GoLibrariesConfigurableProvider$1" />
+    <property name="configurable.Global.libraries.is.expanded" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ignore_missing_gitignore" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\GoProjects\src\github.com\VitaliiMichailovich\exercism-go" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="ApexTest" factoryName="Apex Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoRunFileConfiguration" factoryName="Go Single File">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="" />
+      <working_directory value="$PROJECT_DIR$" />
+      <framework value="gotest" />
+      <kind value="DIRECTORY" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="exercism-go" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+  </component>
+  <component name="SFStoredExecutionPersistentComponent">
+    <executions>
+      <execution name="Default" sourceToExecute="" />
+    </executions>
+    <lastSelectedExecutionName>Default</lastSelectedExecutionName>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ddef72af-04fd-456e-a042-72d32a53d266" name="Default" comment="" />
+      <created>1505990831990</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1505990831990</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug Logs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Execute Anonymous" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17110874" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Salesforce" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32936078" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/go/error-handling/common.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="49" column="10" lean-forward="false" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go/error-handling/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go/error-handling/error_handling_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="90" column="18" lean-forward="false" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two-fer/two_fer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two-fer/two_fer_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two-fer/example_two_fer_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="14" lean-forward="false" selection-start-line="4" selection-start-column="7" selection-end-line="4" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two-fer/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/two-fer/two_fer.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accumulate/accumulate_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go/error-handling/common.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="49" column="10" lean-forward="false" selection-start-line="49" selection-start-column="10" selection-end-line="49" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/accumulate/accumulate.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go/error-handling/error_handling_test.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="662">
+          <caret line="90" column="18" lean-forward="false" selection-start-line="90" selection-start-column="18" selection-end-line="90" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go/error-handling/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="34">
+            <caret line="2" column="30" lean-forward="false" selection-start-line="2" selection-start-column="30" selection-end-line="2" selection-end-column="30" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bob/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/go/accumulate/accumulate.go">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="63" lean-forward="true" selection-start-line="4" selection-start-column="63" selection-end-line="4" selection-end-column="63" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
