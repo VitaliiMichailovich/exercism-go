@@ -2,7 +2,6 @@
   <library name="GOPATH &lt;exercism-go&gt;">
     <CLASSES>
       <root url="file://C:/Go/src/strconv" />
-      <root url="file://C:/Go/lib/src/golang.org" />
       <root url="file://C:/Go/src/unicode" />
       <root url="file://C:/Go/src/cmd" />
       <root url="file://C:/Go/src/math" />
@@ -15,7 +14,6 @@
       <root url="file://C:/Go/src/expvar" />
       <root url="file://C:/Go/src/flag" />
       <root url="file://C:/Go/src/log" />
-      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
       <root url="file://C:/Go/src/unsafe" />
       <root url="file://$PROJECT_DIR$/../../../golang.org" />
       <root url="file://C:/Go/src/database" />
@@ -25,10 +23,13 @@
       <root url="file://C:/Go/src/os" />
       <root url="file://C:/Go/src/builtin" />
       <root url="file://C:/Go/src/go" />
-      <root url="file://C:/Go/src/runtime" />
       <root url="file://C:/Go/src/plugin" />
       <root url="file://C:/Go/src/bytes" />
       <root url="file://C:/Go/src/time" />
+      <root url="file://$PROJECT_DIR$/../../../bitbucket.org" />
+      <root url="file://C:/Go/lib/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://C:/Go/src/runtime" />
       <root url="file://C:/Go/src/container" />
       <root url="file://C:/Go/src/mime" />
       <root url="file://C:/Go/src/fmt" />
@@ -53,7 +54,6 @@
     <JAVADOC />
     <SOURCES>
       <root url="file://C:/Go/src/strconv" />
-      <root url="file://C:/Go/lib/src/golang.org" />
       <root url="file://C:/Go/src/unicode" />
       <root url="file://C:/Go/src/cmd" />
       <root url="file://C:/Go/src/math" />
@@ -66,7 +66,6 @@
       <root url="file://C:/Go/src/expvar" />
       <root url="file://C:/Go/src/flag" />
       <root url="file://C:/Go/src/log" />
-      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
       <root url="file://C:/Go/src/unsafe" />
       <root url="file://$PROJECT_DIR$/../../../golang.org" />
       <root url="file://C:/Go/src/database" />
@@ -76,10 +75,13 @@
       <root url="file://C:/Go/src/os" />
       <root url="file://C:/Go/src/builtin" />
       <root url="file://C:/Go/src/go" />
-      <root url="file://C:/Go/src/runtime" />
       <root url="file://C:/Go/src/plugin" />
       <root url="file://C:/Go/src/bytes" />
       <root url="file://C:/Go/src/time" />
+      <root url="file://$PROJECT_DIR$/../../../bitbucket.org" />
+      <root url="file://C:/Go/lib/src/golang.org" />
+      <root url="file://$PROJECT_DIR$/../../../gopkg.in" />
+      <root url="file://C:/Go/src/runtime" />
       <root url="file://C:/Go/src/container" />
       <root url="file://C:/Go/src/mime" />
       <root url="file://C:/Go/src/fmt" />

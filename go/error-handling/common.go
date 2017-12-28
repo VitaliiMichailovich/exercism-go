@@ -4,8 +4,6 @@ import (
 	"io"
 )
 
-var testVersion = 2
-
 // These are the support types and interface definitions used in the
 // implementation if your Use function. See the test suite file at
 // for information on the expected implementation.
@@ -60,16 +58,3 @@ type Resource interface {
 // It may return a wrapped error of type TransientError. In this case the resource
 // is temporarily unavailable and the caller should retry soon.
 type ResourceOpener func() (Resource, error)
-
-func Use(o ResourceOpener, input string) error {
-	var r Resource
-	var e error
-	r, e = o()
-	r.Frob(input)
-	r.Defrob(input)
-	r.Close()
-	if e == nil {
-		return nil
-	}
-	return e
-}
